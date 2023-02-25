@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dilam26
 - 👀 I’m interested in improving my abilities in programming
-- 🌱 I’m currently finishing my thesis
+- 🌱 I’m currently learning analysis and numerical methods
 - 💞️ I’m looking to collaborate with any people
-- 📫 This i s my email polancodilam6@gmail.com
+- 📫 This is my email polancodilam6@gmail.com
 
 <!---
 Dilam26/Dilam26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
