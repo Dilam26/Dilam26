@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dilam26
 - 👀 I’m interested in improving my abilities in programming
-- 🌱 I’m currently learning analysis and numerical methods
+- 🌱 I’m currently finishing my thesis
 - 💞️ I’m looking to collaborate with any people
 - 📫 This i s my email polancodilam6@gmail.com
 
